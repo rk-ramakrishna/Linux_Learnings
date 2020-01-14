@@ -1,0 +1,58 @@
+# Linux for Java developers
+
+## 1. Brief history of Linux
+## 2. Linux Distributions
+## 3. Linux Commands
+## 4. Linux cheat sheet
+## 5. References
+
+
+## 1. Brief history of Linux:
+
+1.	By the late 1960s, computing was becoming far more common, but there was no widely used common operating system. Bell Labs had been involved in a project called Multics (Multiplexed Information and Computing Service).
+
+2.	Multics was a combined effort of the Massachusetts Institute of Technology, Bell Labs, and General Electric to create an operating system with wide, general-use applicability. However, the Multics project was fraught with problems, and Bell Labs decided to pull out of the project. 
+   
+3.	A team at Bell Labs, consisting of Ken Thompson, Dennis Ritchie, Brian Kernighan, Douglas McElroy, and Joe Ossanna, decided to create a new operating system that might have wide usage.
+  
+4.	The original name of the project was Unics, a play on the term Multics. Originally, UNIX was a side project by the team, because Bell Labs did not actively provide financial support. It was only after the team added functionality that could be used on other Bell computers that the company began to enthusiastically support the project.
+  
+5.	At that time, all operating systems were written in assembly language. In 1972, UNIX was re-written entirely in the C programming language. Incidentally, C was also developed at Bell Labs, by some of the same team members who worked on the UNIX project. For these reasons, there has always been a strong connection between C and UNIX.
+   
+6.	Aside from the stability and applicability of UNIX, another factor led to its wide success. **AT&T, the parent company of Bell Labs, had been the target of an antitrust case. As part of the court ruling in that case, the company was prohibited from entering into the commercial computer business. So Bell Labs had to license the UNIX operating system to anyone who requested it, which led many educational institutions to adopt UNIX**
+   
+7.	In the early `1980s`, AT&T broke up into smaller companies, allowing UNIX to become a commercial product.
+
+### Unix Variants:
+
+8. Unfortunately, UNIX can be quite expensive, often costing many thousands of dollars. This price level is prohibitive for individual users and small businesses, as well as academia. The advent of the open source movement would eventually bring open source UNIX variants. 
+
+9.  Open source was first brought to the public forefront by Richard Stallman. In 1985, Richard Stallman published a paper entitled “GNU Manifesto.” This document outlined the parameters for open source licensing, thus establishing **Stallman as the father of open source software**
+
+10.	Stallman’s Free Software Foundation later created the GNU General Public License that is now used for most open source products, including Linux.
+    
+11.	Stallman had begun working on his own operating system in 1983. He called this system GNU (this acronym stands for GNU is Not UNIX). His goal was simply to create a free version of UNIX. He wanted it to be as much like UNIX as possible, despite the name (GNU is Not UNIX). However, Stallman’s open source UNIX variant did not achieve widespread popularity, and it was soon replaced by other, more robust, variants. 
+
+12. **Now one reason that so many UNIX variants arose in the 1970s and 1980s is because many of the creators of these variants had actually worked with the UNIX source code. It is important to keep in mind that when Bell Labs originally created UNIX, they released its source code to the public. That is no longer the case; however, it means that computer scientists studying operating systems in the ’70s and ’80s were very likely intimately familiar with the UNIX source code.**
+
+13.	In 1987, a university professor named Andrew S. Tanenbaum created another UNIX variant called Minix. Minix was fairly stable and functional and a reasonably good UNIX clone. Minix was completely written in C by Professor Tanenbaum, who created it primarily as a teaching tool for his students. He wanted them to learn operating systems by being able to study the actual source code for an operating system. 
+
+14.	The source code for Minix was included in his book Operating Systems: Design and Implementation. Placing the source code in a textbook that was widely used meant a large number of computer science students would be exposed to this source code. Coupled with the earlier release of the original UNIX source code, many computer science students learned UNIX and UNIX clones quite thoroughly. This wide exposure to both the original UNIX source code and the source code for UNIX clones is one reason that most open source operating systems are UNIX clones.
+
+15.	Although Minix failed to gain the popularity of some other UNIX variants, it was an inspiration for the creator of Linux. 
+
+16.	The **story of the Linux operating system really is the story of Linus Torvalds**. He began his work on Linux when he was a graduate student working toward his Ph.D. in computer science. In those days, all computer science students worked with UNIX, as there was no Windows or DOS, and Apple was still very much a hobbyist machine. So Linus Torvalds was quite familiar with the UNIX operating system.
+ 
+17.	In addition to learning UNIX, Linus Torvalds was also introduced to the Minix operating system. Linus found many things he liked about the Minix operating system, but he believed that he could make a better UNIX variant. So he created his own UNIX clone and released it as free software. **He chose the name Linux, as a combination of his first name, Linus, and the end of UNIX, nix.**
+
+18.	Once his initial Linux project was underway, he had to address the issue of how to get it out to the public. He began by posting the operating system code on an Internet discussion board, allowing anyone to use it, play with it, or modify it. 
+
+19.	Finally, Linus Torvalds released **`Linux 0.01`** on the Internet under a GNU public license. Since it was open source, this meant other computer scientists and programmers had access to the source code. That allowed people all over the world to become involved in Linux and to contribute to its development.
+
+20.	Over the ensuing years, Linux popularity has grown. It has moved from a hobby operating system for computer enthusiasts to a full-fledged business operating system. 
+
+21.	Various vendors, including companies and individuals, take the Linux kernel and add their own nuances. These nuances may include additional applications, different installation processes, and even different targets. For example, Red Hat works to create a Linux distribution that is well suited to large scale servers, whereas Ubuntu and Kubuntu are both targeted for novice users installing on a single workstation. 
+
+22.	The Linux mascot, has a funny history behind it. The community was looking for a logo/mascot, and after several suggestions, Linus talked about being bitten by a "ferocious fairy" penguin in an Australian zoo in 1993. Thus it was settled. Larry Ewing made the original drawing. The name Tux came from **T**orvalds **U**NI**X**, and it's also the beginning of the word tuxedo (frequently associated with penguins).
+
+![Tux - Linux official logo](./images/Tux - Linux official logo.png)
