@@ -88,7 +88,7 @@
      
      Below screenshot shows above command output
      
-            ![shell](images/pwd-linux-manual.jpg)
+            ![pwd-linux-manual](images/pwd-linux-manual.jpg)
 
 6.	The bash manual is not a step-by-step guide, but instead a quick reference.
     
