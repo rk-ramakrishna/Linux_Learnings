@@ -1,10 +1,10 @@
 # Linux for Java developers
 
-## 1. [ Brief history of Linux ]
-## 2. [ Linux Distributions ]
-## 3. [ Linux Commands ]
-## 4. [ Linux cheat sheet ]
-## 5. [ References ]
+(##-1.-Brief-history-of-Linux)
+(##-2.-Linux-Distributions)
+(##-3.-Linux-Commands)
+(##-4.-Linux-cheat-sheet)
+(##-5.-References)
 
 
 ## 1. Brief history of Linux:
