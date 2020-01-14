@@ -10,22 +10,22 @@
 ## 1. Brief history of Linux:
 
 1.	 In the early 1960s, the first computing operating systems were designed to allow only a single user to run one program at a time.
-     By the late 1960s, computing was becoming far more common and decided to develop **multi user, multi tasking operating system**. Bell Labs had been involved in a project called Multics (Multiplexed Information and Computing Service).
+     By the late 1960s, computing was becoming far more common and decided to develop **multi user, multi tasking operating system**. Bell Labs had been involved in a project called **Multics (Multiplexed Information and Computing Service)**.
 
 2.	 Multics was a combined effort of the Massachusetts Institute of Technology [MIT], Bell Labs, and General Electric to create multi user, multi task operating system. 
      However, the Multics project unable to achieve grand goals, and Bell Labs decided to pull out of the project. 
    
-3.	 Visionary members in Bell labs Ken Thompson, Dennis Ritchie, Brian Kernighan, Douglas McElroy, and Joe Ossanna, decided to develop independent system based on Multics project
+3.	 Visionary members in Bell labs **Ken Thompson, Dennis Ritchie, Brian Kernighan, Douglas McElroy, and Joe Ossanna**, decided to develop independent system based on Multics project
      concepts.  
   
-4.   As a result, they developed multi user, multi task operating system called UNIX. 
+4.   As a result, they developed multi user, multi task operating system called **UNIX**. 
 
 5.   Later AT&T, the parent company of Bell labs started to provide the finical support to UNIX.
 
 6.   During that time, all operating systems were written in assembly language. In 1972, UNIX was re-written entirely in the C programming language. Incidentally, C was also
      developed at Bell Labs, by some of the same team members who worked on the UNIX.  
  
-7.	 The original name of the project was Unics, a play on the term Multics. 
+7.	 The original name of the project was **_Unics_**, a play on the term Multics. 
   
 8.	 AT&T, the parent company of Bell Labs, had been the target of an antitrust case. As part of the court ruling in that case, the company was prohibited from entering into the
      commercial computer business. So Bell Labs had to license the UNIX operating system to anyone who requested it, which led many educational institutions to adopt UNIX.
@@ -42,7 +42,7 @@
 
 12.	 Stallman’s Free Software Foundation later created the GNU General Public License that is now used for most open source products, including Linux.
 	 
-13.	 In 1987, a university professor named Andrew S. Tanenbaum created another UNIX variant called Minix. Minix was fairly stable and functional and a reasonably good UNIX clone.
+13.	 In 1987, a university professor named **Andrew S. Tanenbaum** created another UNIX variant called **Minix**. **Minix** was fairly stable and functional and a reasonably good UNIX clone.
      Minix was completely written in C by Professor Tanenbaum, who created it primarily as a teaching tool for his students. He wanted them to learn operating systems by being able to study the actual source code for an operating system. 
 
 14.	 The source code for Minix was included in his book Operating Systems: Design and Implementation. Placing the source code in a textbook that was widely used meant a large number
