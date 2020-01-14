@@ -73,6 +73,8 @@
 
 1.   A shell is any user interface that interprets a user's commands, either through a command-line interface (CLI) or a graphical user interface (GUI). You can think of a shell (visualized in the figure) as a software layer meant to execute all appropriately formatted commands using the underlying kernel and hardware system resources. In other words, it's the way you talk to your computer.
 
+        ![shell](images/shell.jpg)
+        
 2.	 **BASH** is default command line tool in Linux, whereas **sh** is default command line tool in Unix. Other popular command line tools are **C shell, Z shell [Z sh]** 
 
 3.	 Use below command to find out the shells installed in Linux
@@ -83,6 +85,10 @@
 5.	 The **man** command provides access to the manual pages stored on the Linux system. Entering the man command followed by a specific command name provides that utility's manual
 
      **Example**:   man pwd
+     
+     Below screenshot shows above command output
+     
+            ![shell](images/pwd-linux-manual.jpg)
 
 6.	The bash manual is not a step-by-step guide, but instead a quick reference.
     
@@ -91,6 +97,9 @@
 
 7.	The manual page divides information about a command into separate sections. Each section has a conventional naming standard as shown in below table
 
+            ![Linux_manual_sections](images/Linux_manual_sections.jpg)
+    
+    
     Tip: 
     Not every command's man page has all the section names described in above table. Also, some commands have section names that are not listed in the conventional standard.
 
@@ -99,6 +108,7 @@
 
 8.	In addition to the conventionally named sections for a man page, there are man page section areas. Each section area has an assigned number, starting at 1 and going to 9; they are listed in below table. 
 
+            ![Linux_manual_section_numbers](images/Linux_manual_section_numbers.jpg)    
 
 9.	For example, screenshot shown on point-5. Notice that in the upper-left and upper-right display corners, the word PWD is followed by a number in parentheses, (1). This means the man pages displayed are coming from content area 1 (executable programs or shell commands).
 
