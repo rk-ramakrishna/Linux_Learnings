@@ -6,7 +6,14 @@ Linux has various popular command line tools apart from BASH are C shell, Z shel
 
 Linux command syntax:
 ========================
-<command> <command-options> <operands>
+command -options arguments
+
+
+Linux symbolic names
+============================
+
+~                  -             Represents user's working directory
+
 
 
 Linux commands help
