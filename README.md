@@ -55,7 +55,7 @@
 
 22.	 The Linux mascot, has a funny history behind it. The community was looking for a logo/mascot, and after several suggestions, Linus talked about being bitten by a "ferocious fairy" penguin in an Australian zoo in 1993. Thus it was settled. Larry Ewing made the original drawing. The name Tux came from **T**orvalds **U**NI**X**, and it's also the beginning of the word tuxedo (frequently associated with penguins).
 
-        ![Tux - Linux official logo](.\images\Tux - Linux official logo.png)
+        ![Tux - Linux official logo](images/Tux_Linux_official_logo.jpg)
         
         
         

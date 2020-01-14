@@ -1,0 +1,19 @@
+
+Note:
+Linux default command line tool is BASH. BASH stands for Bourne-Again shell. BASH is extension of Unix sh. 
+Linux has various popular command line tools apart from BASH are C shell, Z shell [Z sh]. 
+
+
+Linux command syntax:
+========================
+<command> <command-options> <operands>
+
+
+Linux commands help
+========================
+
+command --help															Displays the various options of command 
+Exmaple:  ls --help
+
+
+
