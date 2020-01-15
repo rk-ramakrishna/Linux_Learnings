@@ -34,13 +34,24 @@
    
 ### Unix Variants:
 
-10.  Stallman had begun working on his own operating system in 1983. He called this system GNU (this acronym stands for GNU is Not UNIX). His goal was simply to create a free
+10.  Stallman had begun working on his own operating system in 1983. He called this system **GNU (this acronym stands for GNU is Not UNIX)**. His goal was simply to create a free
      version of UNIX. He wanted it to be as much like UNIX as possible, despite the name (GNU is Not UNIX). However, Stallman’s open source UNIX variant did not achieve widespread popularity, and it was soon replaced by other, more robust, variants. 
 
 11.  Open source was first brought to the public forefront by Richard Stallman. In 1985, Richard Stallman published a paper entitled “GNU Manifesto.” This document outlined the
      parameters for open source licensing, thus establishing **Stallman as the father of open source software**
 
 12.	 Stallman’s Free Software Foundation later created the GNU General Public License that is now used for most open source products, including Linux.
+	 
+	 **Note:**
+	 a. General Public License[GPL] explicitly states that the software being released is free and that no one can ever take away these freedoms. 
+	    It is acceptable to take the software and resell it, even for a profit; however, in this resale, the seller must release the full source code, including any changes. 
+	    Because the resold package remains under the GPL, the package can be distributed for free and resold yet again by anyone else for a profit. 
+	    Of primary importance is the liability clause: The programmers are not liable for any damages caused by their software.
+	 
+	 b. It should be noted that the GPL is not the only license used by open source software developers. Other licenses, such as BSD and Apache, have similar liability clauses but differ in terms of their redistribution. 
+	    For instance, the BSD license allows people to make changes to the code and ship those changes without having to disclose the added code.
+	    
+	 c. More information about licenses, verify **www.opensource.org.**   
 	 
 13.	 In 1987, a university professor named **Andrew S. Tanenbaum** created another UNIX variant called **Minix**. **Minix** was fairly stable and functional and a reasonably good UNIX clone.
      Minix was completely written in C by Professor Tanenbaum, who created it primarily as a teaching tool for his students. He wanted them to learn operating systems by being able to study the actual source code for an operating system. 
@@ -66,15 +77,40 @@
 
         ![Tux - Linux official logo](images/Tux_Linux_official_logo.jpg)
         
+
+References:
+==================
+Introduction to UNIX/Linux  -   Cengage Charles River Media
+Linux Command Line and Shell Scripting Bible, Third Edition
+
         
         
-## 2. Linux Distributions:
+## 2. Linux Distro [Distribution]:
 
 1.   Since Linux is open source many people code and released their own versions of Linux. Currently in market there are many Linux distros available. Linux distros rating can be found at  http://distrowatch.com
 
 2.   Linux Distro is set of components required to achieve successful working Linux system
 
-3.   A Linux distro includes the Linux kernel itself (different versions of the kernel may be integrated into the same distro for different hardware architectures, for example), the omnipresent GNU tools, a lot of small tools that are needed to provide different services, probably a windowing system, a desktop environment, and finally a package management system with a number of software packages that can be installed by default or according to user preferences. Even when the entire installation process can be completed (more or less) through the automated distro installation process, as opposed to other operating systems, the Linux OS installation is highly customizable.
+3.   A Linux distro includes the **Linux kernel itself**, the omnipresent **GNU tools**, a lot of small tools that are needed to provide different services, probably a windowing system, a desktop environment, and finally a **package management system** with a number of software packages that can be installed by default or according to user preferences.
+
+4.   Linux distros broadly categorized into two groups.
+        ### a. commercial distors
+        ### a. noncommercial distors 
+
+5.   The commercial distros generally offer support for their distribution—at a cost. The commercial distros also tend to have a longer release life cycle
+
+6.   Examples of commercial flavors of Linux-based distros are **RHEL and SUSE Linux Enterprise (SLE)**.
+
+7.   The noncommercial distros, on the other hand, are free. These distros try to adhere to the original spirit of the open source software movement
+
+8.   They are mostly community supported and maintained—the community consists of the users and developers. 
+
+9.   
+
+References:
+==================
+Linux Distros
+
 
 
 ## 3. Linux Commands:
