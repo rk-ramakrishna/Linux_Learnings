@@ -133,7 +133,7 @@ Linux Distros
      
      Below screenshot shows above command output
      
-            ![pwd-linux-manual](images/pwd_linux_manual.jpg)
+            ![pwd_man_command_linux](images/pwd_man_command_linux.jpg)
 
 6.	The bash manual is not a step-by-step guide, but instead a quick reference.
     
@@ -142,18 +142,18 @@ Linux Distros
 
 7.	The manual page divides information about a command into separate sections. Each section has a conventional naming standard as shown in below table
 
-            ![Linux_manual_sections](images/Linux_manual_sections.jpg)
+            ![Linux_man_command_sections](images/Linux_man_command_sections.jpg)
     
     
-    Tip: 
+    **Tip:** 
     Not every command's man page has all the section names described in above table. Also, some commands have section names that are not listed in the conventional standard.
 
-    Tip: 
-    What if you can't remember the command name? You can search the man pages using keywords. The syntax is man -k keyword. For example, to find commands dealing with the terminals, you type man -k terminal.
+    **Tip:** 
+    What if you can't remember the command name? You can search the man pages using keywords. The syntax is **man -k keyword**. For example, to find commands dealing with the terminals, you type **man -k terminal**.
 
 8.	In addition to the conventionally named sections for a man page, there are man page section areas. Each section area has an assigned number, starting at 1 and going to 9; they are listed in below table. 
 
-            ![Linux_manual_section_numbers](images/Linux_manual_section_numbers.jpg)    
+            ![Linux_man_command_section_numbers](images/Linux_man_command_section_numbers.jpg)    
 
 9.	For example, screenshot shown on point-5. Notice that in the upper-left and upper-right display corners, the word PWD is followed by a number in parentheses, (1). This means the man pages displayed are coming from content area 1 (executable programs or shell commands).
 
