@@ -133,7 +133,7 @@ Linux Distros
      
      Below screenshot shows above command output
      
-            ![pwd_man_command_linux](images/pwd_man_command_linux.jpg)
+            ![pwd_man_command_linux](images/man_command_01.jpg)
 
 6.	The bash manual is not a step-by-step guide, but instead a quick reference.
     
@@ -142,7 +142,7 @@ Linux Distros
 
 7.	The manual page divides information about a command into separate sections. Each section has a conventional naming standard as shown in below table
 
-            ![Linux_man_command_sections](images/Linux_man_command_sections.jpg)
+            ![man_command_01](images/man_command_02.jpg)
     
     
     **Tip:** 
@@ -153,7 +153,7 @@ Linux Distros
 
 8.	In addition to the conventionally named sections for a man page, there are man page section areas. Each section area has an assigned number, starting at 1 and going to 9; they are listed in below table. 
 
-            ![Linux_man_command_section_numbers](images/Linux_man_command_section_numbers.jpg)    
+            ![man_command_03](images/man_command_03.jpg)    
 
 9.	For example, screenshot shown on point-5. Notice that in the upper-left and upper-right display corners, the word PWD is followed by a number in parentheses, (1). This means the man pages displayed are coming from content area 1 (executable programs or shell commands).
 
