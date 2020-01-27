@@ -4,6 +4,7 @@
 
 * [Brief history of Linux](#brief-history-of-Linux)
 * [Linux Distributions](#linux-distributions)
+* [Linux Standard Base](#linux-standard-base)
 * [References](#references)
 
 
@@ -134,8 +135,86 @@
 
 14.  Another important consideration for Linux distro is Enviornment. There are 4 major Enviornments, such as Desktop, Server, cloud/virtualization and embedded 
 
+15.  When you need to serve a database or a web site, you use a Linux distro oriented to the server environment.
+
+### Server 
+
+16.  Server Distro usually lack a graphical environment. Security, performance, and stability are the main features in this category and 
+     usually these distros are a bit outdated compared to the desktop distros. 
+	 
+17.  **These Linux distros are meant to be running on a 365/24 basis and they usually are not rebooted for years at a time.**
+
+18.  Popular and well-recognized distros in server are Red Hat Enterprise Linux, SUSE Linux Enterprise Server, CentOS, 
+     and Oracle (the last two are forks of Red Hat) as well as corresponding server versions of the most popular desktop distros like Ubuntu Server or Debian.
+
+### Cloud/Virtualization	 
+
+19.  This is a subcategory or a super-specialization of the server category. 
+
+20.  This distro need to be reliable, secure, scalable, easy to automate and deploy, etc.
+
+21.  Most of the big and popular distros are used in this environment, like Red Hat, CentOS, Ubuntu, and Debian. 
+
+22.  Some offer specialized versions to fit new needs, like Ubuntu Cloud and Amazon AMI (one fork of Red Hat suited to work with AWS), 
+     and some even offer their own cloud services like **Red Hat OpenStack or OpenShift.**
+
+23.  **There are also extremely light and minimal Linux distros created especially for this environment like CoreOS, which makes use of new technologies like containers (Docker,
+     rocket and Kubernetes).**
+
+24.  **Although virtualization is supported by default nowadays in the kernel, there are some distributions that focus only on it, like Oracle VM Server 
+     or Proxmox VE (Debian based), which work like bare-metal hypervisors.**
+
+### Embedded/Mobile
+	 
+25.  The distros in the embedded/mobile category are very specialized, aimed to fit in mobile devices, consumer electronics, network appliances (routers, firewalls)
+     , machine controls, industrial automation, road vehicles, medical instruments, etc.      	 
+	 
+26.  The best known ones are employed on mobile devices, such as Android, Ubuntu mobile, and Tizen. Others like OpenWrt and Alpine are focused on network devices.	 
 
 
+### Package Management System
+
+27.  In Linux, you install/update software using a package manager, usually from official repositories on the Internet or directly from a package. 
+
+28.  A package manager is a fantastic, centralized, and secure way to manage the software of your operating system. But, as usual in Linux, there are many different package managers.
+
+29.  RPM:
+	 RPM is the acronym for Red Hat Package Manager and is obviously the one used by that distribution and its derivatives. 
+	 It was also adopted by SUSE and Mandriva and thus their derivatives. It's the de facto official packaging system, and it's the one most frequently supported by corporate developers. These packages have the .rpm suffix.
+
+30.  Some of the Linux distros that support this system are Red Hat, CentOS, Oracle Linux, Fedora, SUSE, OpenSUSE, Mageia, and PCLinuxOS.
+
+31.  dpkg:
+	 The package management system created by Debian is called dpkg, and it is the second most used after rpm. The suffix of these packages is .deb. When corporate developers release a version of their software for Linux, they normally offered .rpm and .deb packages, and sometimes also the source.
+
+32.  Some of the many distros that use this system are Debian, Ubuntu, Mint, and all of the Debian/Ubuntu derivatives.
+
+
+
+## Linux Standard Base:
+
+1.  As we noticed there are lot of Linux Distributions with distinct functionalities. Obviously they have a lot in common, but at the same time they have many particularities 
+    that make them different from each other. 
+   
+2.  In order to make this "mess" something bearable and manageable to software developers (and ultimately the users), the LSB was created. 
+
+3.  The Linux Standard Base is a project supported by several Linux distros that aims to offer some common ground between the different distributions.
+
+4.  It provides standards for things like the file system hierarchy, libraries, printing system, run levels, and so on.
+
+5.  The goal of the LSB is to develop and promote a set of open standards that will increase compatibility among Linux distributions and 
+    enable software applications to run on any compliant system even in binary form. In addition, the LSB will help coordinate efforts to recruit 
+	software vendors to port and write products for Linux Operating Systems.  
+	
+6.  The project originated in 2001 and the current version of its standards is 5.0. 
+
+7.  But its impact is very small; only a few Linux distros follow it, like the commercial ones: Red Hat, SUSE and Ubuntu. 
+
+8.  So it is currently only a beautiful idea embraced by a small percentage of all Linux distributions. Also, it has been criticized by some distros like Debian over some
+    controversial decisions.
+
+9.  Please refer here for LSB   www.linuxfoundation.org/collaborate/workgroups/lsb
+ 	
 	 
 ## References:
 
