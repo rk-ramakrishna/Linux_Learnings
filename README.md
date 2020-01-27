@@ -32,8 +32,6 @@
 	 
 9.   In the early `1980s`, AT&T broke up into smaller companies, allowing UNIX to become a commercial product.	 
    
-### Unix Variants:
-
 10.  Stallman had begun working on his own operating system in 1983. He called this system **GNU (this acronym stands for GNU is Not UNIX)**. His goal was simply to create a free
      version of UNIX. He wanted it to be as much like UNIX as possible, despite the name (GNU is Not UNIX). However, Stallman’s open source UNIX variant did not achieve widespread popularity, and it was soon replaced by other, more robust, variants. 
 
@@ -123,23 +121,15 @@
 
 13.  Below are few of Task orientied Linux operating systems. 
 
-			*  **Multimedia/Arts:  Ubuntu Studio, ArtistX**
-
-			*  **Media PC/Home Theater: Kodi (formerly known as XBMC), Mythbuntu**
-
-			*  **Security/Forensics/Anonymity: Kali, Tails, DEFT**
-
-			*  **Storage: FreeNAS**
-
-			*  **Mobile: Android, Tizen, Ubuntu Phone**
-
-			*  **Cloud Apps: Chrome**
-
-			*  **Routers: OpenWrt**
-
-			*  **Gaming: SteamOS**
-
-			*  **Cloud/Data Center: CoreOS**
+			*  Multimedia/Arts:  Ubuntu Studio, ArtistX
+			*  Media PC/Home Theater: Kodi (formerly known as XBMC), Mythbuntu
+			*  Security/Forensics/Anonymity: Kali, Tails, DEFT
+			*  Storage: FreeNAS
+			*  Mobile: Android, Tizen, Ubuntu Phone
+			*  Cloud Apps: Chrome
+			*  Routers: OpenWrt
+			*  Gaming: SteamOS
+			*  Cloud/Data Center: CoreOS
      
 
 14.  Another important consideration for Linux distro is Enviornment. There are 4 major Enviornments, such as Desktop, Server, cloud/virtualization and embedded 
@@ -152,6 +142,6 @@
 	*  Linux Command Line and Shell Scripting Bible, Third Edition
 	*  The Linux Command Line: A Complete Introduction, 2nd Edition
 	*  Introduction to UNIX/Linux  			-   Cengage Charles River Media
-	*  Linux Distros						-	Jose Dieguez Castro
+	*  Linux Distros					-	Jose Dieguez Castro
 	
 	
