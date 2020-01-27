@@ -85,7 +85,7 @@
 
         
         
-## 2. Linux Distributions:
+## Linux Distributions:
 
 1.   Since Linux is open source many people code and released their own versions of Linux. Currently in market there are many Linux distros available. 
      Linux distros rating can be found at  http://distrowatch.com
@@ -137,7 +137,7 @@
 
 
 	 
-## 3. References:
+## References:
 
 	*  Linux Command Line and Shell Scripting Bible, Third Edition
 	*  The Linux Command Line: A Complete Introduction, 2nd Edition
