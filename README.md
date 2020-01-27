@@ -4,7 +4,7 @@
 
 * [Brief history of Linux](#brief-history-of-Linux)
 * [Linux Distributions](#linux-Distributions)
-* [Linux Commands](#linux-Commands)
+* [References](#references)
 
 
 ## Brief history of Linux:
@@ -87,13 +87,15 @@
 
         
         
-## 2. Linux Distro [Distribution]:
+## 2. Linux Distributions:
 
-1.   Since Linux is open source many people code and released their own versions of Linux. Currently in market there are many Linux distros available. Linux distros rating can be found at  http://distrowatch.com
+1.   Since Linux is open source many people code and released their own versions of Linux. Currently in market there are many Linux distros available. 
+     Linux distros rating can be found at  http://distrowatch.com
 
 2.   Linux Distro is set of components required to achieve successful working Linux system
 
-3.   A Linux distro includes the **Linux kernel itself**, the omnipresent **GNU tools**, a lot of small tools that are needed to provide different services, probably a windowing system, a desktop environment, and finally a **package management system** with a number of software packages that can be installed by default or according to user preferences.
+3.   A Linux distro includes the **Linux kernel itself**, the omnipresent **GNU tools**, a lot of small tools that are needed to provide different services, probably a windowing
+     system, a desktop environment, and finally a **package management system** with a number of software packages that can be installed by default or according to user preferences.
 
 4.   Linux distros broadly categorized into two groups.
         ### a. commercial distors
@@ -107,8 +109,8 @@
 
 8.   They are mostly community supported and maintained—the community consists of the users and developers. 
 
-9.   Reason behind the existence of so many Linux distributions, because of GNU project, the FSF[Free software foundation]. If GNU project not exist, we mayn't see birth of Linux. 
-     That's the reason, so many community members term Linux as GNU/Linux
+9.   **Reason behind the existence of so many Linux distributions, because of GNU project, the FSF[Free software foundation]. If GNU project not exist, we mayn't see birth of Linux. 
+     That's the reason, so many community members term Linux as GNU/Linux**
 	 
 10.  Since we have so many Linux distributions, we have to carefully pick suitable Linux distro according to requirements. 
      For example, we shouldn't consider the Elementry Linux used in Embedded systems for desktop or server.  
@@ -121,26 +123,35 @@
 
 13.  Below are few of Task orientied Linux operating systems. 
 
-			Multimedia/Arts: Ubuntu Studio, ArtistX
+			* **Multimedia/Arts:  Ubuntu Studio, ArtistX**
 
-			Media PC/Home Theater: Kodi (formerly known as XBMC), Mythbuntu
+			* **Media PC/Home Theater: Kodi (formerly known as XBMC), Mythbuntu**
 
-			Security/Forensics/Anonymity: Kali, Tails, DEFT
+			* **Security/Forensics/Anonymity: Kali, Tails, DEFT**
 
-			Storage: FreeNAS
+			* **Storage: FreeNAS**
 
-			Mobile: Android, Tizen, Ubuntu Phone
+			* **Mobile: Android, Tizen, Ubuntu Phone**
 
-			Cloud Apps: Chrome
+			* **Cloud Apps: Chrome**
 
-			Routers: OpenWrt
+			* **Routers: OpenWrt**
 
-			Gaming: SteamOS
+			* **Gaming: SteamOS**
 
-			Cloud/Data Center: CoreOS
+			* **Cloud/Data Center: CoreOS**
      
 
 14.  Another important consideration for Linux distro is Enviornment. There are 4 major Enviornments, such as Desktop, Server, cloud/virtualization and embedded 
 
+
+
 	 
-	 
+## 3. References:
+
+	* Linux Command Line and Shell Scripting Bible, Third Edition
+	* The Linux Command Line: A Complete Introduction, 2nd Edition
+	* Introduction to UNIX/Linux  -   Cengage Charles River Media
+	* Linux Distros		-	Jose Dieguez Castro
+	
+	
