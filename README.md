@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [Brief history of Linux](#brief-history-of-Linux)
-* [Linux Distributions](#linux-Distributions)
+* [Linux Distributions](#linux-distributions)
 * [References](#references)
 
 
@@ -98,8 +98,8 @@
      system, a desktop environment, and finally a **package management system** with a number of software packages that can be installed by default or according to user preferences.
 
 4.   Linux distros broadly categorized into two groups.
-        ### a. commercial distors
-        ### a. noncommercial distors 
+        #### a. commercial distors
+        #### a. noncommercial distors 
 
 5.   The commercial distros generally offer support for their distribution—at a cost. The commercial distros also tend to have a longer release life cycle
 
@@ -123,23 +123,23 @@
 
 13.  Below are few of Task orientied Linux operating systems. 
 
-			* **Multimedia/Arts:  Ubuntu Studio, ArtistX**
+			*  **Multimedia/Arts:  Ubuntu Studio, ArtistX**
 
-			* **Media PC/Home Theater: Kodi (formerly known as XBMC), Mythbuntu**
+			*  **Media PC/Home Theater: Kodi (formerly known as XBMC), Mythbuntu**
 
-			* **Security/Forensics/Anonymity: Kali, Tails, DEFT**
+			*  **Security/Forensics/Anonymity: Kali, Tails, DEFT**
 
-			* **Storage: FreeNAS**
+			*  **Storage: FreeNAS**
 
-			* **Mobile: Android, Tizen, Ubuntu Phone**
+			*  **Mobile: Android, Tizen, Ubuntu Phone**
 
-			* **Cloud Apps: Chrome**
+			*  **Cloud Apps: Chrome**
 
-			* **Routers: OpenWrt**
+			*  **Routers: OpenWrt**
 
-			* **Gaming: SteamOS**
+			*  **Gaming: SteamOS**
 
-			* **Cloud/Data Center: CoreOS**
+			*  **Cloud/Data Center: CoreOS**
      
 
 14.  Another important consideration for Linux distro is Enviornment. There are 4 major Enviornments, such as Desktop, Server, cloud/virtualization and embedded 
@@ -149,9 +149,9 @@
 	 
 ## 3. References:
 
-	* Linux Command Line and Shell Scripting Bible, Third Edition
-	* The Linux Command Line: A Complete Introduction, 2nd Edition
-	* Introduction to UNIX/Linux  -   Cengage Charles River Media
-	* Linux Distros		-	Jose Dieguez Castro
+	*  Linux Command Line and Shell Scripting Bible, Third Edition
+	*  The Linux Command Line: A Complete Introduction, 2nd Edition
+	*  Introduction to UNIX/Linux  			-   Cengage Charles River Media
+	*  Linux Distros						-	Jose Dieguez Castro
 	
 	
