@@ -3,6 +3,7 @@
 ## Table of Contents
 
 * [Brief history of Linux](#brief-history-of-Linux)
+* [Linux Shells](#linux-shells)
 * [Linux Distributions](#linux-distributions)
 * [Linux Standard Base](#linux-standard-base)
 * [References](#references)
@@ -83,7 +84,21 @@
         ![Tux - Linux official logo](images/Tux_Linux_official_logo.jpg)
         
 
+## Linux Shells:		
 
+1.   **Stephen Bourne** at Bell Labs created utility to interact with kernal called **Bourne shell[sh]** way back in 1979.
+
+2.   Bourne shell[sh] very famous as it is used for command line interpreter and for scripts execution. 
+
+3.   Ten years later in 1989, Bourne shell[sh] replaced with Bash [**B**ourne-**a**gain **sh**ell]. 
+
+4.   Bash is part of GNU project
+
+5.   The Bash command syntax is a superset of that in the Bourne shell
+
+6.   Bash incorporates many extensions that are lacking in the Bourne shell. 
+
+7.   **Today Bash is the default shell for most Linux operating systems, for Apple's macOS operating system (formerly OS X), and for the Solaris Unix operating system.**
         
         
 ## Linux Distributions:
@@ -118,7 +133,7 @@
 
 		![Linux_distro_selection_criteria](images/Linux_distro_selection_criteria.jpg)
 		
-12.  Popular General purpose Linux distros are ** Ubuntu, Fedora, Debian, Mint**.  General purpose Linux distros used for daily work at home or office. 
+12.  Popular General purpose Linux distros are **Ubuntu, Fedora, Debian, Mint**.  General purpose Linux distros used for daily work at home or office. 
 
 13.  Below are few of Task orientied Linux operating systems. 
 
@@ -178,16 +193,18 @@
 
 28.  A package manager is a fantastic, centralized, and secure way to manage the software of your operating system. But, as usual in Linux, there are many different package managers.
 
-29.  RPM:
+29.  **RPM:** <br/>
 	 RPM is the acronym for Red Hat Package Manager and is obviously the one used by that distribution and its derivatives. 
 	 It was also adopted by SUSE and Mandriva and thus their derivatives. It's the de facto official packaging system, and it's the one most frequently supported by corporate developers. These packages have the .rpm suffix.
 
 30.  Some of the Linux distros that support this system are Red Hat, CentOS, Oracle Linux, Fedora, SUSE, OpenSUSE, Mageia, and PCLinuxOS.
 
-31.  dpkg:
-	 The package management system created by Debian is called dpkg, and it is the second most used after rpm. The suffix of these packages is .deb. When corporate developers release a version of their software for Linux, they normally offered .rpm and .deb packages, and sometimes also the source.
+31.  **dpkg:**  <br/>
+	 The package management system created by Debian is called dpkg, and it is the second most used after rpm. The suffix of these packages is .deb. 
+	 
+32.  When corporate developers release a version of their software for Linux, they normally offered .rpm and .deb packages, and sometimes also the source.
 
-32.  Some of the many distros that use this system are Debian, Ubuntu, Mint, and all of the Debian/Ubuntu derivatives.
+33.  Some of the many distros that use this system are Debian, Ubuntu, Mint, and all of the Debian/Ubuntu derivatives.
 
 
 
