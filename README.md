@@ -86,19 +86,40 @@
 
 ## Linux Shells:		
 
-1.   **Stephen Bourne** at Bell Labs created utility to interact with kernal called **Bourne shell[sh]** way back in 1979.
 
-2.   Bourne shell[sh] very famous as it is used for command line interpreter and for scripts execution. 
+1.   Ken Thompson (of Bell Labs) developed the first shell for UNIX called the V6 shell in 1971.
 
-3.   Ten years later in 1989, Bourne shell[sh] replaced with Bash [**B**ourne-**a**gain **sh**ell]. 
+2,   V6 shell introduced a compact syntax for redirection (< > and >>) and piping (| or ^) that has survived into modern shells. 
 
-4.   Bash is part of GNU project
+3.   V6 shell also supports for invoking sequential commands (with ;) and asynchronous commands (with &).
 
-5.   The Bash command syntax is a superset of that in the Bourne shell
+4.   V6 shell purpose was as an interactive shell (command interpreter) to invoke commands and view results. It lacks the ability to script
 
-6.   Bash incorporates many extensions that are lacking in the Bourne shell. 
+5.   In Later year 1979, **Stephen Bourne** at Bell Labs created shell called **Bourne shell[sh]**
 
-7.   **Today Bash is the default shell for most Linux operating systems, for Apple's macOS operating system (formerly OS X), and for the Solaris Unix operating system.**
+6.   **Bourne shell[sh] very famous as it is used for command line interpreter and for scripts execution.**
+
+7.   Bourne shell replaces its all predecessors. It's still default for so many Linux distributions
+
+8.   Bourne introduced control flows, loops, and variables into scripts, providing a more functional language to interact with the operating system 
+     (both interactively and noninteractively).
+
+9.   Below diagram illustrates the lineage of important shells
+
+		![shells_lineage](images/shells_lineage.png)
+
+10.   Ten years later in 1989, Bourne shell[sh] replaced with **Bash** [**B**ourne-**a**gain **sh**ell]. 
+
+11.   Bash is part of GNU project
+
+12.   The Bash command syntax is a superset of that in the Bourne shell
+
+13`.  Bash incorporates many extensions that are lacking in the Bourne shell. 
+
+14.   **Today Bash is the default shell for most Linux operating systems, for Apple's macOS operating system (formerly OS X), and for the Solaris Unix operating system.**
+
+15.   To know the version of bash use the command bash --version
+
         
         
 ## Linux Distributions:
