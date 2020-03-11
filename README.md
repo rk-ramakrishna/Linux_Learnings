@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [Brief history of Linux](#brief-history-of-Linux)
-* [Linux Shells](#linux-shells)
+* [Introduction of Linux Shells](#introduction-of-linux-shells)
 * [Linux Distributions](#linux-distributions)
 * [Linux Standard Base](#linux-standard-base)
 * [References](#references)
@@ -84,16 +84,16 @@
         ![Tux - Linux official logo](images/Tux_Linux_official_logo.jpg)
         
 
-## Linux Shells:		
+## Introduction of Linux Shells:		
 
 
 1.   Ken Thompson (of Bell Labs) developed the first shell for UNIX called the V6 shell in 1971.
 
-2,   V6 shell introduced a compact syntax for redirection (< > and >>) and piping (| or ^) that has survived into modern shells. 
+2.   V6 shell introduced a compact syntax for redirection (< > and >>) and piping (| or ^) that has survived into modern shells. 
 
 3.   V6 shell also supports for invoking sequential commands (with ;) and asynchronous commands (with &).
 
-4.   V6 shell purpose was as an interactive shell (command interpreter) to invoke commands and view results. It lacks the ability to script
+4.   **V6 shell purpose was as an interactive shell (command interpreter) to invoke commands and view results. It lacks the ability to script**
 
 5.   In Later year 1979, **Stephen Bourne** at Bell Labs created shell called **Bourne shell[sh]**
 
@@ -107,18 +107,23 @@
 9.   Below diagram illustrates the lineage of important shells
 
 		![shells_lineage](images/shells_lineage.png)
+		
+10.  The Bourne shell led to the development of the Korn shell (ksh), Almquist shell (ash), and the popular Bourne Again Shell (or Bash)
 
-10.   Ten years later in 1989, Bourne shell[sh] replaced with **Bash** [**B**ourne-**a**gain **sh**ell]. 
+11.  **The C shell (csh) was under development at the time the Bourne shell was being released**.	
 
-11.   Bash is part of GNU project
+12.  Bash is part of GNU project. The Bash command syntax is a superset of that in the Bourne shell(sh). Bash incorporates many extensions that are lacking in the Bourne shell.
 
-12.   The Bash command syntax is a superset of that in the Bourne shell
+13.  **Today Bash is the default shell for most Linux operating systems, for Apple's macOS operating system (formerly OS X), and for the Solaris Unix operating system**
 
-13`.  Bash incorporates many extensions that are lacking in the Bourne shell. 
+14.  To know the version of bash, use command bash --version 
 
-14.   **Today Bash is the default shell for most Linux operating systems, for Apple's macOS operating system (formerly OS X), and for the Solaris Unix operating system.**
+15.  To know the shells installed in Linux, use command cat /etc/shells
 
-15.   To know the version of bash use the command bash --version
+16.  Zsh is more popular shell now 
+
+17.  
+
 
         
         
@@ -260,5 +265,6 @@
 	*  The Linux Command Line: A Complete Introduction, 2nd Edition
 	*  Introduction to UNIX/Linux  			-   Cengage Charles River Media
 	*  Linux Distros					-	Jose Dieguez Castro
+	*  Bash in Easy Steps				-		Mike McGrath
 	
 	
