@@ -86,6 +86,9 @@
 
 ## Introduction of Linux Shells:		
 
+**Shell:**
+Computer operating systems include a command-line interface allows the user to communicate directly with the system by typing text commands.
+The command-line interface called as "Shell". Shell process the input command and produce an appropriate output response.
 
 1.   Ken Thompson (of Bell Labs) developed the first shell for UNIX called the V6 shell in 1971.
 
@@ -120,13 +123,21 @@
 
 15.  To know the shells installed in Linux, use command cat /etc/shells
 
-16.  Zsh is more popular shell now 
+16.  Zsh is more popular shell now
 
-17.  
+17.  **Each Unix/Linux account is configured with a certain shell as it's command line interface.**
+
+18.  Logged on users can found type of shell configured with command "echo $SHELL". In most of Linux distributions default shell is Bash[/bin/bash].
+
+19.  To try a shell other than your default shell, issue the shell name on a command line. For example, if bash is your default shell, and you want zsh (provided it is available on
+     the system), you enter zsh at a command prompt. Then, the command prompt provides a zsh interface with zsh features.     
+
+20.  Shell change is temporarily and lasts only as long as you are logged on to that command-line.
+
+21.  **To change your default shell permanently, use either the command chsh or passwd.**
 
 
-        
-        
+      
 ## Linux Distributions:
 
 1.   Since Linux is open source many people code and released their own versions of Linux. Currently in market there are many Linux distros available. 
